@@ -1,0 +1,6 @@
+1,Apple,10.5
+2,Banana,7.3
+5,Samsung,16
+5,Orange,17
+5,Poco,15
+5,,12
